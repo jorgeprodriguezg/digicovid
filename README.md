@@ -8,4 +8,4 @@ The files included in this repository reproduce the simulation of the first and 
 
 + zaragoza_notrun.sim is a simulation file including data: official time series of number of infected and deaths, age and sex of each considered individual and contacts in six interaction layers (home, school, university, work, nursing homes and community).
 
-+ zaragoza_wv2_ready.ipynb is a Jupyter notebook that loads zaragoza_notrun.sim and runs it with the calibrated parameters.
++ zaragoza_wv2.ipynb is a Jupyter notebook that loads zaragoza_notrun.sim and runs it with the calibrated parameters.
