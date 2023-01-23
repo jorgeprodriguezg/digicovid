@@ -1,6 +1,6 @@
 # digicovid
 
-Code used for Rodríguez, J.P., Aleta, A., Moreno, Y., "Digital cities and the spread of COVID-19: characterizing the impact of non-pharmaceutical interventions in five cities in Spain", 2023, [arXiv preprint](https://doi.org/10.48550/arXiv.2212.06659)
+Code used for Rodríguez, J.P., Aleta, A., Moreno, Y., "Digital cities and the spread of COVID-19: characterizing the impact of non-pharmaceutical interventions in five cities in Spain", [arXiv preprint](https://doi.org/10.48550/arXiv.2212.06659), 2023
 
 The code uses the open-source software [COVASIM](https://github.com/InstituteforDiseaseModeling/covasim)
 
